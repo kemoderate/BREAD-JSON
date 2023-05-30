@@ -1,0 +1,97 @@
+
+
+h1 {
+  color: #333;
+}
+
+h2 {
+  margin-top: 20px;
+  color: #666;
+}
+
+form {
+  margin-bottom: 20px;
+}
+
+input[type="text"],
+input[type="number"],
+input[type="date"],
+input[type="checkbox"] {
+  margin-right: 10px;
+}
+
+.btn {
+  border: none;
+  color: white;
+  padding: 8px 16px;
+  cursor: pointer;
+  font-size: 14px;
+  border-radius: 4px;
+}
+
+.btn-edit {
+  background-color: #2196F3;
+}
+
+.btn-delete {
+  background-color: #FF0000;
+}
+
+.table {
+  margin-top: 20px;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.table th,
+.table td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+.table th {
+  background-color: #F5F5F5;
+}
+
+.delete-form {
+  display: inline-block;
+  margin: 0;
+}
+
+
+/* styles.css */
+/* Add your custom styles here */
+
+/* Example: Change the background color of the table */
+.table {
+  background-color: #f8f9fa;
+}
+
+/* Example: Change the font color of the table headings */
+.table thead th {
+  color: #dc3545;
+}
+
+.btn {
+  border: none; /* Remove borders */
+  color: black; /* Add a text color */
+  padding: 14px 28px; /* Add some padding */
+  cursor: pointer; /* Add a pointer cursor on mouse-over */
+}
+
+.success {
+  background-color: #04AA6D;
+} /* Green */
+
+.success:hover {
+  background-color: #46a049;
+}
+
+.btn-delete {
+  background-color: #2196F3;
+} /* Blue */
+
+.btn-delete:hover {
+  background: #0b7dda;
+}

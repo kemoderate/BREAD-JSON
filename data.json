@@ -1,0 +1,10 @@
+[
+  {
+    "id": "10",
+    "stringField": "102323",
+    "integerField": "100",
+    "floatField": "10.5",
+    "dateField": "2022-02-02",
+    "booleanField": "true"
+  }
+]
