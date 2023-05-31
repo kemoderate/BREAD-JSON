@@ -1,10 +1,1 @@
-[
-  {
-    "id": "10",
-    "stringField": "102323",
-    "integerField": "100",
-    "floatField": "10.5",
-    "dateField": "2022-02-02",
-    "booleanField": "true"
-  }
-]
+[{"id":1,"string":"KAPOK","integer":2021,"float":69099.12,"date":"2021-12-05","boolean":true}]
